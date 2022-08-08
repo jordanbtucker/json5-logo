@@ -1,6 +1,6 @@
 # JSON5 Logo
 
-![JSON5 Logo](json5-logo-auto.svg)
+![JSON5 Logo](json5-logo-auto-2.svg)
 
 This repository contains three SVG logos for JSON5.
 
