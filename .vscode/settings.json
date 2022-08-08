@@ -1,0 +1,13 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "xml.format.experimental": true,
+  "xml.format.maxLineWidth": 80,
+  "xml.format.preserveAttributeLineBreaks": false,
+  "xml.format.preserveSpace": ["style", "text", "tspan"],
+  "xml.format.splitAttributes": false,
+  "xml.preferences.quoteStyle": "double",
+  "[xml]": {
+    "editor.defaultFormatter": "redhat.vscode-xml"
+  }
+}

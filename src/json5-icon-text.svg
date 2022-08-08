@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <style>
+    .main  { fill: #222; }
+    .flair { fill: #999; }
+  </style>
+  <text style="font-family: Roboto; font-weight: 900; font-size: 136.682px; letter-spacing: -12px" x="-2.6695704" y="168.0826"><tspan id="ob" class="flair">{</tspan><tspan id="J" class="main">J</tspan><tspan id="col" class="flair">:</tspan><tspan id="5" class="main">5</tspan><tspan id="com" class="flair">,</tspan><tspan id="cb" class="flair">}</tspan></text>
+</svg>

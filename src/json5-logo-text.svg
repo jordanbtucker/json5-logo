@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="112" viewBox="0 0 500 112">
+  <style>
+    .main  { fill: #222; }
+    .flair { fill: #999; }
+  </style>
+  <text style="font-family: Roboto; font-weight: 900; font-size: 115.2px" x="-2.25" y="89.83"><tspan id="ob" class="flair">{</tspan><tspan id="JSON" class="main">JSON</tspan><tspan id="col" class="flair">:</tspan><tspan id="5" class="main">5</tspan><tspan id="com" class="flair">,</tspan><tspan id="cb" class="flair">}</tspan></text>
+</svg>
