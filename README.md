@@ -8,7 +8,9 @@ This repository contains three SVG logos for JSON5.
 
 For use on light backgrounds. It displays text in black.
 
-<img src="json5-logo-light.svg" style="width: 300px; background-color: #fff">
+<div style="background-color: #fff">
+<img src="json5-logo-light.svg" style="width: 300px">
+</div>
 
 ## `json5-logo-dark.svg`
 
